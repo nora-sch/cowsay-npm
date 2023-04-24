@@ -1,0 +1,14 @@
+{
+  "name": "npm-cow-say",
+  "version": "1.0.0",
+  "description": "WILD exo NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nora Sumane",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
